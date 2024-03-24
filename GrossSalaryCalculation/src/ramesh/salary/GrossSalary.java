@@ -7,6 +7,7 @@ public class GrossSalary {
     public static void main (String[] args){
 
         System.out.println("Ramesh's basic salary calculation");
+
         System.out.println("Enter your basic salary");
 
         Scanner in = new Scanner(System.in);
