@@ -1,4 +1,4 @@
-package studentmarks;
+package student.marks;
 
 import java.util.Scanner;
 
